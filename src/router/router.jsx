@@ -4,6 +4,7 @@ import MLayout from "../layouts/MLayout";
 import Lonin from "../pages/Lonin";
 import RegisterPage from "../pages/RegisterPage";
 import TodolistPage from "../pages/TodolistPage";
+import AddList from "../components/AddList";
 
 const router = createBrowserRouter([
   {
