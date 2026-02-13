@@ -8,6 +8,6 @@ function MLayout(){
             <Outlet />
          </div>
     )
-    //a oaisjgiadsg
+    
 }
 export default MLayout;
